@@ -9,7 +9,7 @@
 
 <br>
 
-- Currenty working on <a href="https://scrimba.com/home">Scrimba Full-Stack Developer Path></a>
+- Currenty working on [Scrimba Full-Stack Development Path](https://scrimba.com/home)
 
 <br><br>
 
