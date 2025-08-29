@@ -9,7 +9,7 @@
 
 <br>
 
-- TODO
+- Currenty working on <a href="https://scrimba.com/home">Scrimba Full-Stack Developer Path></a>
 
 <br><br>
 
