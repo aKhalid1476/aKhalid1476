@@ -3,6 +3,12 @@
 🎓 I’m a **first-year Software Engineering student** at the **University of Waterloo** passionate about **machine learning, full-stack development, and problem solving**.  
 
 ---
+## 🚀 Experience
+
+- 🛰 Full-stack Developer @ UW Orbital Team
+- 🛸 Autonomous Software Developer @ Waterloo Aerial Robotics Group
+- 🤖 Prev. ML Intern @ Inspirit AI
+---
 
 ## 🚀 Projects  
 
