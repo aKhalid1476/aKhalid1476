@@ -12,13 +12,14 @@
 
 ## 🚀 Projects  
 
+- 📚 **[Hadi.ai](https://github.com/Shayan-CS/Islamic-Study-Tools)**
+Building a RAG based startup that generates flashcards from textbooks, more features to come soon...
+   
 - 🔭 **[CNN Exoplanet Detector](https://github.com/aKhalid1476/cnn_exoplanet_detector)**  
    Built during my ML internship — a **convolutional neural network** to detect exoplanets from light curve data.  
 
 - 🧬 **[Cancerous Cell Classifier](https://github.com/aKhalid1476/cancerous_cell_classifier)**  
-   Logistic Regression model that classifies cancerous vs. non-cancerous cells.  
-
-- 🌱 Currently working through the **Scrimba Full-Stack Developer Course** to sharpen my **frontend & backend engineering** skills.  
+   Logistic Regression model that classifies cancerous vs. non-cancerous cells.    
 
 ---
 
